@@ -109,4 +109,4 @@ basic-docker-project/
 
     ==> Vérifier l'image sur DockerHub :
 
-    ==> Une fois le workflow terminé, allez sur DockerHub et vérifiez que l'image a bien été poussée
+    ==> Une fois le workflow terminé, allez sur DockerHub et vérifiez que l'image a bien été poussée..
